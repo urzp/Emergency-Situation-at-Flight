@@ -1,0 +1,92 @@
+    
+            
+          header{
+                text-align: center;
+                font-family: Courier New, Times New Roman;
+                font-size: 1.8em;    
+            }
+            
+            .GRP{
+                position:relative;
+                display: block;
+                left: 50%;
+                margin-left: -225px;
+                margin-top: 30px;
+                
+                width: 450px;
+                height: 80px;
+                
+                border-radius: 10px;
+
+                text-align: center;
+
+                font-family: Courier New, Times New Roman;
+                font-size: 1.5em;
+                padding: 5px;
+                
+            }
+
+
+      #rzp {
+        position: relative;
+        border: 1px solid black;
+        border-radius: 10px;
+        
+        width: 800px;
+        left: 50%;
+        margin-left: -300px;  
+        margin-top: 20px;
+      }
+      
+      #rzp_in {
+        position: relative;
+        float: left;
+        margin: -20px;
+        width: 150px;
+        top: 100px;
+        left: 50px;
+        font-size: 2em;
+        font-family: Courier New, Times New Roman;
+        font-weight: bold;
+        
+      }
+      
+      #dsh_in {
+        position: relative;
+        float: left;
+        margin: -20px;
+        top: 55px;
+        left: 50px;
+        font-size: 2em;
+        font-family: Courier New, Times New Roman;
+        font-weight: bold;     
+      }
+
+      #back {
+        position: relative;
+        margin: 3px;
+        left: 3%;
+        float: left;
+      }
+      
+      .icons {
+        float: right;
+        position: relative;
+        right: -33px;
+        padding: 10px 2px 2px 10px;
+      }
+      
+          
+
+            a{
+                text-decoration: none; 
+            }
+            
+            #back{
+                position: absolute;
+                left:3%;
+            }
+
+.coment2{
+    
+}

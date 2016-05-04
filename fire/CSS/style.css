@@ -1,0 +1,49 @@
+  body {
+        background: linear-gradient(90deg, #CC6633, #FFCCCC);
+      }
+      
+      header {
+        color: #CC6633;
+        text-align: center;
+        text-shadow: 3px 0px 5px #663300, 0 0 25px yellow, 0 0 5px #663300;
+      }
+      
+      .GRP {
+
+        margin-bottom: 30px;  
+        height: auto;
+          
+        background: linear-gradient(90deg, #CC99FF, #CCCCFF);
+        box-shadow: 10px 10px 15px 5px #663300;
+        
+        text-align: left;  
+        text-indent: 3%;
+          
+        color: #008500;
+        text-shadow: 5px 2px 15px #269926;
+        font-family: Courier New, Times New Roman;
+        font-size: 1em;
+        padding: 5px 60px 5px 30px;
+        font-weight: bold;
+      }
+      
+      #rzp {
+        background-color: #BF7130;
+
+      }
+      
+      #rzp_in {
+        color: #06266F;
+        text-shadow: 5px 2px 15px #269926;
+      }
+      
+      #dsh_in {
+        color: #06266F;
+        text-shadow: 5px 2px 15px #269926;
+      }
+      
+      
+      #back {
+        position: relative; 
+      }
+      
